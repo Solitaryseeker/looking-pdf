@@ -36,6 +36,4 @@ This project uses Python to read a PDF file and create a new version with passwo
 - Jupyter Notebook
 - `pikepdf` library for PDF encryption
 
-## ✍️ Author
 
-**Rohit Sahu**
